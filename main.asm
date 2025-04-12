@@ -47,7 +47,7 @@ main:
 .halt:
     jmp .halt
 
-msg_hello: db 'Made by Earthmover.', ENDL, 0
+msg_hello: db 'Made by Ulysbek.', ENDL, 0
 
 
 times 510-($-$$) db 0
