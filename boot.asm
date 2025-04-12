@@ -170,7 +170,7 @@ disk_reset:
     ret
     
 
-msg_hello:              db 'Made by Earthmover.', ENDL, 0
+msg_hello:              db 'Made by Ulysbek.', ENDL, 0
 msg_read_failed:        db 'Read from disk failed, fuck you'
 
 
